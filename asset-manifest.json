@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-dashboard/static/css/main.e4cdf940.chunk.css",
+    "main.js": "/react-dashboard/static/js/main.e466d4aa.chunk.js",
+    "main.js.map": "/react-dashboard/static/js/main.e466d4aa.chunk.js.map",
+    "runtime-main.js": "/react-dashboard/static/js/runtime-main.93b74b55.js",
+    "runtime-main.js.map": "/react-dashboard/static/js/runtime-main.93b74b55.js.map",
+    "static/css/2.31af4afb.chunk.css": "/react-dashboard/static/css/2.31af4afb.chunk.css",
+    "static/js/2.8eec4667.chunk.js": "/react-dashboard/static/js/2.8eec4667.chunk.js",
+    "static/js/2.8eec4667.chunk.js.map": "/react-dashboard/static/js/2.8eec4667.chunk.js.map",
+    "index.html": "/react-dashboard/index.html",
+    "precache-manifest.7b236e2a477884a6820f10544c3e5a50.js": "/react-dashboard/precache-manifest.7b236e2a477884a6820f10544c3e5a50.js",
+    "service-worker.js": "/react-dashboard/service-worker.js",
+    "static/css/2.31af4afb.chunk.css.map": "/react-dashboard/static/css/2.31af4afb.chunk.css.map",
+    "static/css/main.e4cdf940.chunk.css.map": "/react-dashboard/static/css/main.e4cdf940.chunk.css.map",
+    "static/media/1.jpg": "/react-dashboard/static/media/1.3fcaca95.jpg",
+    "static/media/2.jpg": "/react-dashboard/static/media/2.14b5a260.jpg",
+    "static/media/3.jpg": "/react-dashboard/static/media/3.8dfce1a3.jpg",
+    "static/media/4.jpg": "/react-dashboard/static/media/4.dda696d8.jpg",
+    "static/media/5.jpg": "/react-dashboard/static/media/5.17a0c5af.jpg",
+    "static/media/components.svg": "/react-dashboard/static/media/components.dd308d81.svg",
+    "static/media/dashboard.svg": "/react-dashboard/static/media/dashboard.179b7809.svg",
+    "static/media/theme.scss": "/react-dashboard/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/logo.svg": "/react-dashboard/static/media/logo.ab84b9f5.svg",
+    "static/media/mail.svg": "/react-dashboard/static/media/mail.93ba2a31.svg",
+    "static/media/notification.svg": "/react-dashboard/static/media/notification.3e16d106.svg",
+    "static/media/notifications.svg": "/react-dashboard/static/media/notifications.ecd5d116.svg",
+    "static/media/photo.jpg": "/react-dashboard/static/media/photo.cabfce3f.jpg",
+    "static/media/settings.svg": "/react-dashboard/static/media/settings.4f4d5ff6.svg",
+    "static/media/tables.svg": "/react-dashboard/static/media/tables.6b2d28ac.svg",
+    "static/media/typography.svg": "/react-dashboard/static/media/typography.badd423b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b74b55.js",
+    "static/css/2.31af4afb.chunk.css",
+    "static/js/2.8eec4667.chunk.js",
+    "static/css/main.e4cdf940.chunk.css",
+    "static/js/main.e466d4aa.chunk.js"
+  ]
+}
